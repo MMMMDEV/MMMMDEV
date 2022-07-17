@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MMMMDEV
-- 👀 I’m interested in Anime
+- 👀 I’m interested in learning different developent languages
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: https://www.instagram.com/blank190190/
