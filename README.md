@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MMMMDEV
-- 👀 I’m interested in learning different developent languages
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning to be a full stack dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: https://www.instagram.com/blank190190/
 
